@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /experience/
 ---
 
-# Sri Sivasubramaniya Nadar College of Engineering
+# SSN College of Engineering
 - Senior Project Officer, in the project titled “Speech Assistive Technologies” as part of the National Language Translation Mission (NLTM): BHASHINI, funded by the Ministry of Electronics and Information Technology  (MeiTY), Govt. of India (a consortium project headed by IIT Madras), in the time period Jan 2023 - August 2023.
     - Building classifiers to identify mild, moderate, and severe dysarthric speakers.
     - Building classifiers to identify the goodness of pronunciation of dysarthric speakers.
