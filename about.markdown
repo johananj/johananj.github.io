@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-# Areas of Interest 
+# Areas of Interest (with work experience)
 - Pattern Classification
 - Speech Recognition
 - Music Information Retrieval
 - Gesture Recognition
-- Language Identification
+- Language/Dialect Identification
 - Speech Synthesis
 - Machine Translation
+- Text Generation
 
 Using,
 - Statistical Machine Learning
