@@ -6,7 +6,7 @@ permalink: /research/
 # Under Review: 
 
 | Journals | 2 |
-| Conferences | 0 | 
+| Conferences | 1 | 
 
 # Journals
 - S Johanan Joysingh, P Vijayalakshmi, T Nagarajan, " Quartered Spectral Envelope and 1D-CNN-based Classification of Normally Phonated and Whispered Speech", Circuits, Systems, and Signal Processing, vol. 42, no. 5, pp. 3038-3053, 2022. (IF: 2.311)
@@ -21,7 +21,8 @@ permalink: /research/
 - S. Johanan Joy Singh, G. Anushiya Rachel, P. Vijayalakshmi, T. Nagarajan, “Incorporating Emotions into Neutral Speech by Modifying Glottal Closure Instants”, National Conf. on Signal Processing, Communication and VLSI Design (NCSCV’13), 2013, pp. 339 – 343.
 
 # As Reviewer
-- Interspeech - ISCA - 2022 (1), 2023 (2)
+- Interspeech - ISCA - 2022 (1), 2023 (2), 2024(3)
 - Circuits, Systems, and Signal Processing (CSSP) - Springer - 2022 (1), 2023 (1)
 - Zeitschrift für Naturforschung A - De Gruyter - 2023 (1)
 - Computer, Speech and Language - ISCA, Elsevier - 2023 (1)
+- Signal Processing Letters, IEEE - 2024 (1)
