@@ -7,7 +7,7 @@ layout: home
 
 Hello, I'm Johanan. 
 
-This website was created to be my portfolio and my blog. 
+This website was created to be my portfolio. 
 
 For my profile, checkout these pages:
 - [About](https://johananj.github.io/about/)
