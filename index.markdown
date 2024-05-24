@@ -7,9 +7,10 @@ layout: home
 
 Hello, I'm Johanan. 
 
+I am a machine learning and signal processing researcher. 
 This website was created to be my portfolio. 
 
-For my profile, checkout these pages:
+For details, please checkout these pages:
 - [About](https://johananj.github.io/about/)
 - [Work Experience](https://johananj.github.io/experience/)
 - [Research Activities](https://johananj.github.io/research/)
