@@ -20,6 +20,6 @@ permalink: /experience/
 
 # Cognizant Technology Solutions
 - Programmer Analyst, in the time period Sep 2013 - Nov 2015
-    - As a tester and module lead to carrying out functional testing of a healthcare application from requirements to production for an US client, and leading the documentation review and walkthrough to client. 
+    - As a tester and module lead carrying out functional testing of a healthcare application from requirements to production for an US client, and leading the documentation review and walkthrough to client. 
     - As automation tester, working with the leadership, to build an Excel VBA application that can accumulate and summarise day- and monthly-productivity, and an application that can parse a large number of requirements from a spreadsheet.
 
