@@ -15,4 +15,6 @@ For details, please checkout these pages:
 - [Work Experience](https://johananj.github.io/experience/)
 - [Research Activities](https://johananj.github.io/research/)
 
+If you want to connect, my github and twitter links are in the footer below. 
+
 Thanks for visiting! 
