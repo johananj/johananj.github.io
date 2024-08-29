@@ -4,6 +4,10 @@ title: Work Experience
 permalink: /experience/
 ---
 
+# Vellore Institute of Technology, Chennai
+- Assistant Professor Jr, SCOPE (School of Computer Science and Engineering), in the time period June 2024 - Present
+    - Subject(s): Speech and Natural Language Processing
+
 # SSN College of Engineering
 - Senior Project Officer, in the project titled “Speech Assistive Technologies” as part of the National Language Translation Mission (NLTM): BHASHINI, funded by the Ministry of Electronics and Information Technology  (MeiTY), Govt. of India (a consortium project headed by IIT Madras), in the time period Jan 2023 - July 2023.
     - Building classifiers to identify mild, moderate, and severe dysarthric speakers.
