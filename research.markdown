@@ -5,7 +5,8 @@ permalink: /research/
 ---
 
 # Journals
-- S Johanan Joysingh, P Vijayalakshmi, T Nagarajan, " Quartered Spectral Envelope and 1D-CNN-based Classification of Normally Phonated and Whispered Speech", Circuits, Systems, and Signal Processing, vol. 42, no. 5, pp. 3038-3053, 2022. (IF: 2.311)
+- S Johanan Joysingh, P Vijayalakshmi, T Nagarajan, "Significance of chirp MFCC as a feature in speech and audio applications", Computer Speech & Language, vol. 89, 2025. (IF: 3.1)
+- S Johanan Joysingh, P Vijayalakshmi, T Nagarajan, "Quartered Spectral Envelope and 1D-CNN-based Classification of Normally Phonated and Whispered Speech", Circuits, Systems, and Signal Processing, vol. 42, no. 5, pp. 3038-3053, 2022. (IF: 2.311)
 - S Johanan Joysingh, P Vijayalakshmi, T Nagarajan, "Chirp Group Delay-Based Onset Detection in Instruments with Fast Attack", Circuits, Systems, and Signal Processing, vol. 42, no. 3, pp. 1639-1662, 2022. (IF: 2.311)
 - P. Vijayalakshmi,  Nagarajan, T.,  Jayapriya, R, Brathindara, S., Krithika, K., Nikhilesh, N. Naren Raju, N. Johanan Joysingh, S., Aiswarya, V. Mrinalini, K., "Development of a low-resource wearable continuous gesture-to-speech conversion system", Disability and Rehabilitation: Assistive Technology, pp.1-12, Jan. 2022. (IF: 2.29)
 
@@ -18,12 +19,13 @@ permalink: /research/
 
 # Under Review: 
 
-| Journals | 2 |
-| Conferences | 1 | 
+| Journals | 1 |
+| Conferences | 2 | 
 
 # As Reviewer
 - Interspeech - ISCA - 2022 (1), 2023 (2), 2024(3)
-- Circuits, Systems, and Signal Processing (CSSP) - Springer - 2022 (1), 2023 (1), 2024 (1)
-- Zeitschrift für Naturforschung A - De Gruyter - 2023 (1)
-- Computer, Speech and Language - ISCA, Elsevier - 2023 (1)
 - Signal Processing Letters, IEEE - 2024 (1)
+- Computer, Speech and Language - ISCA, Elsevier - 2023 (1)
+- Circuits, Systems, and Signal Processing (CSSP) - Springer - 2022 (1), 2023 (1), 2024 (2)
+- Zeitschrift für Naturforschung A - De Gruyter - 2023 (1)
+- TENCON - IEEE - 2024 (5) 
