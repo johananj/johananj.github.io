@@ -21,7 +21,7 @@ Using,
 
 # Skills
 - Scientific Computing: Python, MATLAB
-- Frameworks: Keras, PyTorch, SkLearn, HTK, Kaldi, HTS, Moses SMT, IndicTrans NMT
+- Frameworks: Keras/TensorFlow, PyTorch, SkLearn, HTK, Kaldi, HTS, Moses SMT, IndicTrans NMT
 - Shell Scripting: Bash, PowerShell
 - Web Programming: Javascript, PHP, SQL
 - Other: C, Java, ExcelVBA
