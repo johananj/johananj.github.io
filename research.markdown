@@ -11,6 +11,8 @@ permalink: /research/
 - P. Vijayalakshmi,  Nagarajan, T.,  Jayapriya, R, Brathindara, S., Krithika, K., Nikhilesh, N. Naren Raju, N. Johanan Joysingh, S., Aiswarya, V. Mrinalini, K., "Development of a low-resource wearable continuous gesture-to-speech conversion system", Disability and Rehabilitation: Assistive Technology, pp.1-12, Jan. 2022. (IF: 2.29)
 
 # Conferences
+- S. Johanan Joysingh, P. Vijayalakshmi, T. Nagarajan, "Quartered Chirp Spectral Envelope for Whispered Vs Normal Speech Classification", in TENCON 2024 - 2024 IEEE Region 10 Conference (accepted)
+- K. Rohith Gupta, K. Ramnath, S. Johanan Joysingh, P. Vijayalakshmi, T. Nagarajan, "MaskCycleGAN-Based Whisper to Normal Speech Conversion", in TENCON 2024 - 2024 IEEE Region 10 Conference (accepted)
 - Jayapriya R.; Johanan Joy Singh S.; Vijayalakshmi P, "Development of MEMS Sensor-Based Double Handed Gesture-To-Speech Conversion System," 2019 International Conference on Vision Towards Emerging Trends in Communication and Networking (ViTECoN), 2019, pp. 1-6.
 - S. Johanan Joysingh, P. Vijayalakshmi and T. Nagarajan, "Development of Large Annotated Music Datasets using HMM based Forced Viterbi Alignment," in TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), 2019, pp. 1298-1302.
 - V. Aiswarya, N. Naren Raju, S. Johanan Joysingh, T. Nagarajan and P. Vijayalakshmi, "HMM based Sign Language to Speech Conversion System in Tamil", in Int. Conf. on Biosignals, Images and Instrumentation (ICBSII), Mar. 2018.
@@ -20,7 +22,7 @@ permalink: /research/
 # Under Review: 
 
 | Journals | 1 |
-| Conferences | 2 | 
+| Conferences | 0 | 
 
 # As Reviewer
 - Interspeech - ISCA - 2022 (1), 2023 (2), 2024(3)
