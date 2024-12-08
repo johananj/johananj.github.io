@@ -27,7 +27,7 @@ permalink: /research/
 # As Reviewer
 - Interspeech - ISCA - 2022 (1), 2023 (2), 2024(3)
 - Signal Processing Letters, IEEE - 2024 (1)
-- Computer, Speech and Language - ISCA, Elsevier - 2023 (1)
+- Computer, Speech and Language - ISCA, Elsevier - 2023 (1), 2024 (1)
 - Circuits, Systems, and Signal Processing (CSSP) - Springer - 2022 (1), 2023 (1), 2024 (2)
 - Zeitschrift für Naturforschung A - De Gruyter - 2023 (1)
 - TENCON - IEEE - 2024 (5) 
