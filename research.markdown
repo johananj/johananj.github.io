@@ -25,9 +25,18 @@ permalink: /research/
 | Conferences | 0 | 
 
 # As Reviewer
-- Interspeech - ISCA - 2022 (1), 2023 (2), 2024(3)
-- Signal Processing Letters, IEEE - 2024 (1)
-- Computer, Speech and Language - ISCA, Elsevier - 2023 (1), 2024 (1)
-- Circuits, Systems, and Signal Processing (CSSP) - Springer - 2022 (1), 2023 (1), 2024 (2)
-- Zeitschrift für Naturforschung A - De Gruyter - 2023 (1)
-- TENCON - IEEE - 2024 (5) 
+
+| Journal/Conference | Year | # Manuscripts |
+| ----- | ----- | ----- |
+| Interspeech - ISCA | 2022 | 1 | 
+|  | 2023 | 2 | 
+|  | 2024 | 3 |
+| Signal Processing Letters (SPL) - IEEE | 2024 | 1 |
+| Computer, Speech and Language (CSL) - ISCA - Elsevier | 2023 | 1 |
+| | 2024 | 1 |
+|  Circuits, Systems, and Signal Processing (CSSP) - Springer | 2022 | 1 |
+| | 2023 | 1 |
+| | 2024 | 2 |
+| | 2025 | 1 |
+| Zeitschrift für Naturforschung A (ZNA) - De Gruyter | 2023 | 1 |
+| Region 10 Conference (TENCON) - IEEE | 2024 | 5 |
