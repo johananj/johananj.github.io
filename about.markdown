@@ -9,22 +9,17 @@ permalink: /about/
 - Speech Recognition
 - Music Information Retrieval
 - Gesture Recognition
-- Language/Dialect Identification
+- Languages/Dialects
 - Speech Synthesis
 - Machine Translation
-- Text Generation
-
-Using,
-- Statistical Machine Learning
-- Deep Learning
-- Digital Signal Processing
+- Signal Processing
 
 # Skills
-- Scientific Computing: Python, MATLAB
-- Frameworks: Keras/TensorFlow, PyTorch, SkLearn, HTK, Kaldi, HTS, Moses SMT, IndicTrans NMT
+- Programming: Python, C, C++
+- Scientific Computing: MATLAB
+- Frameworks: Keras/TensorFlow, PyTorch, SkLearn, HTK, Kaldi, HTS, Moses SMT
 - Shell Scripting: Bash, PowerShell
 - Web Programming: Javascript, PHP, SQL
-- Other: C, Java, ExcelVBA
 
 # Personal Interests
 - Technical Writing
